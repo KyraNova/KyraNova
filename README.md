@@ -25,6 +25,7 @@ Here, you'll find my personal projects, open-source contributions, and maybe eve
 📩 Reach me via GitHub discussions or issues!
 
 🎯 Fun Fact
+
 I tweak things until they work perfectly—or until I break them completely. No in-between. 😤
 <!---
 KyraNova/KyraNova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
