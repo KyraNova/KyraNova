@@ -13,8 +13,7 @@ Here, you'll find my personal projects, open-source contributions, and maybe eve
 - 🏗️ Building a Robust Server Infrastructure
 - 🏢 Deploying a Monolith Server with Docker Quickly and Easily
 - 🌐 Building a Virtual Data Center for Automated VPS Services for Website Hosting
-- 🚀 Self-hosted AI server on VPS (with or without GPU)
-- 🎼 Creating chill beats with a mix of experimental sounds
+- 🚀 Self-hosted AI server on VPS
 - ☕ Perfecting my pour-over technique
 
 📫 Connect with Me
