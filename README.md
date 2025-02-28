@@ -1,6 +1,7 @@
 Hey there! 👋
-Welcome to my GitHub profile! I'm Kyra, a tech enthusiast who loves experimenting with code, AI, and everything in between. 
+Welcome to my GitHub profile! I'm Kyra or you can call me Naufal, a tech enthusiast who loves experimenting with code, AI, and everything in between. 
 Here, you'll find my personal projects, open-source contributions, and maybe even some random ideas turned into code. 😆
+
 🔧 Tech Stack & Interests
 - 💻 Programming: C++, Python
 - 🧠 AI & Machine Learning
