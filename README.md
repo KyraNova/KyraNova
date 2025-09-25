@@ -26,7 +26,7 @@ Here, you'll find my personal projects, open-source contributions, and maybe eve
 
 🎯 Fun Fact
 
-I tweak things until they work perfectly—or until I break them completely. No in-between. 😤
+I tweak things until they work perfectly or until I break them completely. No in-between. 😤
 <!---
 KyraNova/KyraNova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
